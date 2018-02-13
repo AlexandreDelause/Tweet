@@ -1,0 +1,25 @@
+.ip p
+{
+    color: red;
+}
+
+.perror{
+	margin: 5px 0px 0px 5px;
+	padding: 0;
+    position: relative;
+}
+input#iden.input {
+	margin-left: 0px;
+}
+input#nom.input {
+	margin-left: 0px;
+}
+input#pseudo.input {
+	margin-left: 0px;
+}
+input#mail.input {
+	margin-left: 0px;
+}
+input.button {
+	padding: 0;
+}

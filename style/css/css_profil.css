@@ -1,0 +1,177 @@
+.profil {
+  display: flex;
+  font-family: 'Playfair Display', Arial, sans-serif;
+}
+
+.img_stat {
+
+}
+
+#banniere_profil {
+  margin-top: -25px;
+  width: 80%;
+  margin: auto;
+}
+
+#image_profil {
+  position:absolute;
+  margin-left: 250px;
+  margin-top: -150px;
+}
+
+#profil_banniere {
+  width: 100%;
+  height: 500px;
+}
+
+#profil_image {
+  position: absolute;
+  overflow:hidden;
+  -webkit-border-radius:50px;
+  -moz-border-radius:50px;
+  border-radius:180px;
+  border: 6px solid white;
+  height: 220px;
+  width: 220px;
+}
+
+#stat_profil {
+  display: flex;
+  border: 2px solid #f2f2f2;
+  border-radius: 5px;
+  background-color: rgb(245, 248, 250);
+  width: 80%;
+  height: 80px;
+  margin: auto;
+}
+
+#stat_profil a {
+  font-size: 17px;
+  color: black;
+}
+
+#tweet_stat {
+  margin-left: 540px;
+  margin-top: 15px;
+}
+
+#abonnement_stat {
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+#abonnés_stat {
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+#like_stat {
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+.fuck_u_very_much {
+  margin: auto;
+}
+
+.infos_profil {
+
+}
+
+.show_infos {
+  /*border: 1px solid #999999;*/
+  width: 270px;
+  height: 400px;
+  margin-left: -320px;
+  margin-top: 35px;
+  display: flex;
+  border: 2px solid #f2f2f2;
+  border-radius: 5%;
+  background-color: rgb(245, 248, 250);
+}
+
+#info_profil {
+
+}
+
+#edit_button {
+  margin-left: 85px;
+  margin-top: 330px;
+}
+
+#edit_button input {
+  border-radius: 2px;
+}
+
+.mes_tweets {
+  display: flex;
+  border: 2px solid #f2f2f2;
+  border-radius: 5%;
+  background-color: rgb(245, 248, 250);
+  width: 800px;
+  height: 900px;
+  margin-top: -400px;
+}
+
+#select_tweet_display {
+  border-bottom: 1px solid #999999;
+  width: 798px;
+  height: 60px;
+  display: flex;
+}
+
+#select_tweet_display a {
+  font-size: 30px;
+  margin-top: 10px;
+  color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#result_tweet_perso {
+
+}
+
+#tweet {
+  margin-left: 90px;
+}
+
+#tweet_rep {
+  margin-left: 80px;
+}
+
+#Médias {
+  margin-left: 100px;
+}
+
+.sugg_tend {
+  margin-left: 845px;
+  margin-top: -900px;
+}
+
+.sugg_tend p {
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+#suggestion_profil {
+  display: flex;
+  border: 2px solid #f2f2f2;
+  border-radius: 5%;
+  background-color: rgb(245, 248, 250);
+  width: 270px;
+  height: 400px;
+}
+
+#tendances_profil {
+  display: flex;
+  border: 2px solid #f2f2f2;
+  border-radius: 5%;
+  background-color: rgb(245, 248, 250);
+  width: 270px;
+  height: 400px;
+  margin-top: 35px;
+}
